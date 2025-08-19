@@ -1,0 +1,36 @@
+# Ignore all TIFF files
+*.tiff
+*.tif
+
+# Ignore all large satellite data and processed outputs
+Nootebooks/processed_tiles/
+Nootebooks/sentinel2_complete_tiles/
+Nootebooks/sentinel2_complete_tiles/*
+Nootebooks/processed_tiles/*
+Nootebooks/sentinel2_complete_tiles/**/*.SAFE/
+Nootebooks/sentinel2_complete_tiles/**/*.SAFE
+Nootebooks/sentinel2_complete_tiles/*.zip
+
+# Ignore other large files
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.rar
+*.hdf
+*.h5
+*.nc
+*.bin
+*.img
+*.jp2
+*.aux.xml
+
+# Ignore temporary and cache files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de credenciales y variables de entorno
+.env
+.env.*
