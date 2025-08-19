@@ -1,6 +1,6 @@
 # Silos_FR_MCDtf
 
-Este proyecto forma parte de la tesis final de la Maestría en Data Science y está enfocado en el análisis y procesamiento de imágenes georreferenciadas de silos para la protección de cultivos. El objetivo principal es aplicar técnicas de minería de texto y procesamiento de imágenes para extraer información relevante que apoye la toma de decisiones en el ámbito agrícola.
+Este proyecto forma parte de la tesis final de la Maestría en Data Science de la universidad Austral sede Rosario y está enfocado en el análisis y procesamiento de imágenes satelitales georreferenciadas "Seninel 2A" de la empresa euorpea para la deteccion y medicion de silos para una region particular de la Argentina. El objetivo principal es aplicar técnicas de procesamiento de imágenes para extraer información relevante que apoye la toma de decisiones en el ámbito agrícola.
 
 ## Estructura del Proyecto
 
@@ -9,9 +9,10 @@ Este proyecto forma parte de la tesis final de la Maestría en Data Science y es
 - **Nootebooks/**: Notebooks de Jupyter con el desarrollo de los análisis, procesamiento de datos y experimentos realizados.
 
 ## Objetivos
-- Procesar imágenes georreferenciadas de silos.
-- Aplicar técnicas de minería de texto sobre documentación técnica.
-- Desarrollar flujos de trabajo reproducibles en notebooks.
+- Generar una descarga y repositorio de imagenes del 2020 al 2025 
+- Procesar imágenes y aplicar técnicas de limpieza.
+- Etiquetar imagenes para la generacion de un set de datos de entrenamiento
+- Entrenar un modelo de red neuronal
 - Generar visualizaciones y reportes para la toma de decisiones.
 
 ## Requisitos
