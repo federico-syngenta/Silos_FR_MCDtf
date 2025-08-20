@@ -30,3 +30,10 @@ Federico (Syngenta)
 
 ## Licencia
 Uso académico y de investigación.
+
+## Meetings , progess y proximos pasos
+Reunion Gonza Sad 20/08/2025
+- Averiguar estado del arte en publicaciones para la deteccion automatica o la segmentacion de imagenes para la deteccion de silo bolsa especificamente (o no)
+- Compartir Repo a Gonza y Generar una carpeta drive con toda la documentacion
+- Comenzar el pre proyect plan
+- Generar segmentacion de espacio tiempo, es decir, definir las imagenes que utilizaremos para generar la biblioteca o la base de datos seleccionando los años, meses de estudio y la superficie
