@@ -37,3 +37,9 @@ Reunion Gonza Sad 20/08/2025
 - Compartir Repo a Gonza y Generar una carpeta drive con toda la documentacion
 - Comenzar el pre proyect plan
 - Generar segmentacion de espacio tiempo, es decir, definir las imagenes que utilizaremos para generar la biblioteca o la base de datos seleccionando los años, meses de estudio y la superficie
+
+## Ideas
+- Utilizar capas de corte que permitan dejar de lado toda area que no sea rural, ejemplo (Pedir capas de soja y maiz de algun año y utilizar eso para extraer la info mas importante)
+
+## links
+- Mapa de cobertura de suelos INTA (https://argentina.mapbiomas.org/mapas-de-la-coleccion/)
