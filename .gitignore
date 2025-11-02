@@ -34,3 +34,6 @@ Thumbs.db
 # Ignorar archivos de credenciales y variables de entorno
 .env
 .env.*
+
+# ignorar archivos de entrnemaiento de modelos
+.pth
