@@ -35,5 +35,12 @@ Thumbs.db
 .env
 .env.*
 
-# ignorar archivos de entrnemaiento de modelos
-.pth
+# Ignorar pesos de modelos entrenados / preentrenados
+*.pth
+*.pt
+*.onnx
+Nootebooks/pesos/
+
+# Ignorar archivos temporales de Office
+~$*
+*.tmp
